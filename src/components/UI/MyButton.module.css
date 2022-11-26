@@ -1,0 +1,13 @@
+.btn {
+    border: solid 1px;
+    text-align: center;
+    cursor: pointer;
+}
+.active {
+    color: green;
+    border-color: green;
+}
+.disabled {
+    color: red;
+    border-color: red;
+}
